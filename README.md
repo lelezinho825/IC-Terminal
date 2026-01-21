@@ -1,5 +1,7 @@
 # Terminal IC
 
+a new terminal for your system
+
 ## What does he do?
 
 You can create files.
@@ -27,5 +29,6 @@ So I started studying CMD, but while doing so, I realized there were some confus
 So I decided to create my own terminal.
 
 ## Logo Terminal:
+
 
 ![Logo IC](assets/logo.png)
